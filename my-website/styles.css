@@ -1,0 +1,11 @@
+#textoprincipal {
+    background-color: aquamarine;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+td {
+    border: 1px dotted black
+}
+img { 
+    max-width: 200px;
+}
